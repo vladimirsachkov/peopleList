@@ -3,7 +3,7 @@ package ru.specialist.human;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class peopleList {
+public class PeopleList {
     public static void main(String[] args) {
         ArrayList<Human> people = new ArrayList<>();
         Scanner scanner = new Scanner(System.in);
